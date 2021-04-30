@@ -24,7 +24,6 @@
         font-weight: 500;
         text-intet: 8mm;
         }
-     
     </style>
     <h1>What is html?</h1>
 <p><strong>Hypertext Markup Language</strong> (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
